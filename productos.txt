@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Lavandina",
+    "price": "200",
+    "thumbnail": "img del producto",
+    "id": 1
+  },
+  {
+    "title": "Detergente",
+    "price": "300",
+    "thumbnail": "img del producto",
+    "id": 2
+  },
+  {
+    "title": "Suavizante para ropa",
+    "price": "300",
+    "thumbnail": "img del producto",
+    "id": 3
+  },
+  {
+    "title": "Jabón líquido para ropa",
+    "price": "500",
+    "thumbnail": "img del producto",
+    "id": 4
+  }
+]
